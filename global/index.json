@@ -1,0 +1,12 @@
+{
+  "links": [
+    {
+      "title": "Music",
+      "path": "/"
+    },
+    {
+      "title": "Videos",
+      "path": "/videos"
+    }
+  ]
+}
