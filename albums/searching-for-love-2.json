@@ -1,5 +1,11 @@
 {
   "title": "Searching for Love 2",
-  "link": "https://www.youtube.com/watch?v=oP2Hc65rtDY&list=OLAK5uy_m7pjtJLf-jzaHmcXjvRoJd0Z9jbnfb9Hg&pp=0gcJCbAEOCosWNin",
-  "imageUrl": "https://img.youtube.com/vi/oP2Hc65rtDY/maxresdefault.jpg"
+  "link": [
+    {
+      "url": "https://www.youtube.com/watch?v=oP2Hc65rtDY&list=OLAK5uy_m7pjtJLf-jzaHmcXjvRoJd0Z9jbnfb9Hg",
+      "provider": "youtube"
+    }
+  ],
+  "imageUrl": "https://img.youtube.com/vi/oP2Hc65rtDY/maxresdefault.jpg",
+  "description": "this is the description for the album.\n\nit has [rich text\n](https://www.youtube.com/watch?v=dQw4w9WgXcQ\\&list=RDdQw4w9WgXcQ\\&start_radio=1)and images\n"
 }

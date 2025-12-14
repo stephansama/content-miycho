@@ -5,8 +5,33 @@
       "path": "/"
     },
     {
-      "title": "Videos",
-      "path": "/videos"
+      "title": "Films",
+      "path": "/films"
+    },
+    {
+      "title": "Shows",
+      "path": "/shows"
+    },
+    {
+      "title": "Email",
+      "path": "/email"
+    }
+  ],
+  "socialLinks": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/share/1aXtyGtcfW/?mibextid=wwXIfr",
+      "provider": "facebook"
+    },
+    {
+      "title": "Instagram",
+      "link": "https://www.instagram.com/miychodapofficial",
+      "provider": "instagram"
+    },
+    {
+      "title": "YouTube",
+      "link": "https://www.youtube.com/@miychodap",
+      "provider": "youtube"
     }
   ]
 }
