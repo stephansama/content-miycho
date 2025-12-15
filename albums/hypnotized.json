@@ -4,6 +4,10 @@
     {
       "url": "https://youtu.be/qPxfbNWf6NU?si=or2MIcM-SV-lr2tc",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/hypnotized-single/1853630224",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://youtu.be/qPxfbNWf6NU?si=or2MIcM-SV-lr2tc",
