@@ -4,6 +4,10 @@
     {
       "url": "https://www.youtube.com/watch?v=6-M1Hy-vV0c&list=OLAK5uy_n6qBfjwDc9cDmfYeVxWGJteKZrnvmdzRY",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/incubus-king/1814980882",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://img.youtube.com/vi/6-M1Hy-vV0c/maxresdefault.jpg",
