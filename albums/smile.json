@@ -1,5 +1,6 @@
 {
   "title": "Smile",
+  "date": "2025-10-20T04:00:00.000Z",
   "link": [
     {
       "url": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
@@ -14,6 +15,6 @@
       "provider": "spotify"
     }
   ],
-  "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
+  "imageUrl": "https://img.youtube.com/vi/DZO0OmPRK2o/maxresdefault.jpg",
   "description": ""
 }
