@@ -4,6 +4,10 @@
     {
       "url": "https://www.youtube.com/watch?v=oP2Hc65rtDY&list=OLAK5uy_m7pjtJLf-jzaHmcXjvRoJd0Z9jbnfb9Hg",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/searching-for-love-2/1731086458",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://img.youtube.com/vi/oP2Hc65rtDY/maxresdefault.jpg",
