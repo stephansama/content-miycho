@@ -8,6 +8,10 @@
     {
       "url": "https://music.apple.com/us/album/hypnotized-single/1853630224",
       "provider": "apple music"
+    },
+    {
+      "url": "https://open.spotify.com/track/5fFi5yYHACUq4uH56gMli6?si=6DHqbq4eTGOhFqIptZ1kyw",
+      "provider": "spotify"
     }
   ],
   "imageUrl": "https://youtu.be/qPxfbNWf6NU?si=or2MIcM-SV-lr2tc",
