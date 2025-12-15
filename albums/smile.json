@@ -4,6 +4,10 @@
     {
       "url": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/smile/1847702900?i=1847702901",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
