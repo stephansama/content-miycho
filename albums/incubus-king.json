@@ -8,6 +8,10 @@
     {
       "url": "https://music.apple.com/us/album/incubus-king/1814980882",
       "provider": "apple music"
+    },
+    {
+      "url": "https://open.spotify.com/album/22GI8kHJDlT3se9pWAsosV?si=SWnMIRwPRwmEfoDKox0EKA",
+      "provider": "spotify"
     }
   ],
   "imageUrl": "https://img.youtube.com/vi/6-M1Hy-vV0c/maxresdefault.jpg",
