@@ -1,5 +1,11 @@
 {
   "title": "Smile",
+  "link": [
+    {
+      "url": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
+      "provider": "youtube"
+    }
+  ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
   "description": ""
 }
