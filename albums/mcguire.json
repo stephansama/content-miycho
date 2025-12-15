@@ -8,6 +8,10 @@
     {
       "url": "https://open.spotify.com/track/4qYalLymkUAi8isOdxzUwT?si=M0YiuMH_TauUqfhgqmsd2w",
       "provider": "spotify"
+    },
+    {
+      "url": "https://music.apple.com/us/album/mcguire/1836729795?i=1836729796",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_lrz_uZQqetZSw7p4m_j64pvB1Vk7lT_nA&si=BBF5AFXia8t7yTce",
