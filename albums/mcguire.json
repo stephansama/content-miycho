@@ -1,5 +1,11 @@
 {
   "title": "McGuire",
+  "link": [
+    {
+      "url": "https://youtube.com/playlist?list=OLAK5uy_lrz_uZQqetZSw7p4m_j64pvB1Vk7lT_nA&si=BBF5AFXia8t7yTce",
+      "provider": "youtube"
+    }
+  ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_lrz_uZQqetZSw7p4m_j64pvB1Vk7lT_nA&si=BBF5AFXia8t7yTce",
   "description": ""
 }
