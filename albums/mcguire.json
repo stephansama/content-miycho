@@ -4,6 +4,10 @@
     {
       "url": "https://youtube.com/playlist?list=OLAK5uy_lrz_uZQqetZSw7p4m_j64pvB1Vk7lT_nA&si=BBF5AFXia8t7yTce",
       "provider": "youtube"
+    },
+    {
+      "url": "https://open.spotify.com/track/4qYalLymkUAi8isOdxzUwT?si=M0YiuMH_TauUqfhgqmsd2w",
+      "provider": "spotify"
     }
   ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_lrz_uZQqetZSw7p4m_j64pvB1Vk7lT_nA&si=BBF5AFXia8t7yTce",
