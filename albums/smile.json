@@ -8,6 +8,10 @@
     {
       "url": "https://music.apple.com/us/album/smile/1847702900?i=1847702901",
       "provider": "apple music"
+    },
+    {
+      "url": "https://open.spotify.com/album/55qBWnetF2KBwnH8aO0GTa?si=VKjNRnefTS-Uop0C9dno1w",
+      "provider": "spotify"
     }
   ],
   "imageUrl": "https://youtube.com/playlist?list=OLAK5uy_kqXmD7qF7YFDXpE4_GxmAWBy8cy7bW4mk&si=6ioGnXfrSLdgrt_X",
