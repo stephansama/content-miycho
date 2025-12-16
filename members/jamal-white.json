@@ -6,6 +6,10 @@
     {
       "url": "https://music.apple.com/us/artist/jamal-white/1240932144",
       "provider": "apple music"
+    },
+    {
+      "url": "https://youtube.com/channel/UCbP4JawkyBXQe-7QtUpPGqw?si=1nhpcsLuxm-eh3d9",
+      "provider": "youtube"
     }
   ]
 }
