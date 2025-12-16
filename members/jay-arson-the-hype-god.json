@@ -10,6 +10,10 @@
     {
       "url": "https://www.instagram.com/j_arsonist?igsh=MTg4Zzh0OWEyeDN4eQ==",
       "provider": "instagram"
+    },
+    {
+      "url": "https://open.spotify.com/artist/5l3mbtxSvEAfTn4hJfdfke?si=CfMdh49sRBezgmAjuuioXA",
+      "provider": "spotify"
     }
   ]
 }
