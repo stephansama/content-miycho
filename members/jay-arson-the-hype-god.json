@@ -18,6 +18,10 @@
     {
       "url": "https://youtube.com/channel/UCaR1XmQx8KQzrhJh_7yQw7w?si=skRi1EwRm46Ng-jc",
       "provider": "youtube"
+    },
+    {
+      "url": "https://on.soundcloud.com/K9HyI2gje2KuHPQwVY",
+      "provider": "soundcloud"
     }
   ]
 }
