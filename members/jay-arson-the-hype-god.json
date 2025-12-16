@@ -14,6 +14,10 @@
     {
       "url": "https://open.spotify.com/artist/5l3mbtxSvEAfTn4hJfdfke?si=CfMdh49sRBezgmAjuuioXA",
       "provider": "spotify"
+    },
+    {
+      "url": "https://youtube.com/channel/UCaR1XmQx8KQzrhJh_7yQw7w?si=skRi1EwRm46Ng-jc",
+      "provider": "youtube"
     }
   ]
 }
