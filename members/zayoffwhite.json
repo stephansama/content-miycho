@@ -1,5 +1,11 @@
 {
   "name": "Zayoffwhite",
   "position": "Rapper",
-  "description": ""
+  "description": "",
+  "links": [
+    {
+      "url": "https://www.instagram.com/zayoffwhite_?igsh=MXB4dW4xZTJuY3k1cA==",
+      "provider": "instagram"
+    }
+  ]
 }
