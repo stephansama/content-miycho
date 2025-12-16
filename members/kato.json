@@ -10,6 +10,10 @@
     {
       "url": "https://youtube.com/@mr.g_kato?si=Y8zmHDKudGSvL0qD",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/artist/g-kato/1823709987",
+      "provider": "apple music"
     }
   ]
 }
