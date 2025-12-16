@@ -14,6 +14,10 @@
     {
       "url": "https://music.apple.com/us/artist/g-kato/1823709987",
       "provider": "apple music"
+    },
+    {
+      "url": "https://open.spotify.com/artist/3NnpKbYyaz7zbrFxhwq6mT?si=LqRg3dlZStis6SioJ-m6Cg",
+      "provider": "spotify"
     }
   ]
 }
