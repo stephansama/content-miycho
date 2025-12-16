@@ -10,6 +10,10 @@
     {
       "url": "https://youtube.com/@theklfshow3117?si=8AJx97_NqVG5xj2P",
       "provider": "youtube"
+    },
+    {
+      "url": "https://open.spotify.com/show/1Dyah1v2U38MoZpc8itYuf?si=EZNuM36ZSpuQqGb99BP96w",
+      "provider": "spotify"
     }
   ]
 }
