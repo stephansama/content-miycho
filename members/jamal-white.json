@@ -10,6 +10,10 @@
     {
       "url": "https://youtube.com/channel/UCbP4JawkyBXQe-7QtUpPGqw?si=1nhpcsLuxm-eh3d9",
       "provider": "youtube"
+    },
+    {
+      "url": "https://open.spotify.com/artist/1sDjv73fJHECO0V6Aj1gKx?si=ySt2zIeaSzC_QQ5ANAM6yw",
+      "provider": "spotify"
     }
   ]
 }
