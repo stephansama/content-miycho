@@ -1,5 +1,11 @@
 {
   "name": "Lil Cliff",
   "position": "hip hop",
-  "description": ""
+  "description": "",
+  "links": [
+    {
+      "url": "https://www.instagram.com/madman.standoffish?igsh=MWVvOXk3M3llNm45Yg==",
+      "provider": "instagram"
+    }
+  ]
 }
