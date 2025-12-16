@@ -6,6 +6,10 @@
     {
       "url": "https://www.youtube.com/@stephansama",
       "provider": "youtube"
+    },
+    {
+      "url": "https://www.instagram.com/bigetheprof?igsh=dDB3MndpMTFjdDgz",
+      "provider": "instagram"
     }
   ]
 }
