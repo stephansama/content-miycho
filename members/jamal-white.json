@@ -1,5 +1,11 @@
 {
   "name": "Jamal White",
   "position": "Singer",
-  "description": ""
+  "description": "",
+  "links": [
+    {
+      "url": "https://music.apple.com/us/artist/jamal-white/1240932144",
+      "provider": "apple music"
+    }
+  ]
 }
