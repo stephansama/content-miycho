@@ -13,6 +13,10 @@
       "path": "/shows"
     },
     {
+      "title": "squad",
+      "path": "/squad"
+    },
+    {
       "title": "Email",
       "path": "/email"
     }

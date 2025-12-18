@@ -1,6 +1,7 @@
 {
   "name": "stephansama",
   "position": "Web Master",
+  "image": "https://github.com/stephansama.png",
   "description": "",
   "links": [
     {
@@ -8,8 +9,12 @@
       "provider": "youtube"
     },
     {
-      "url": "https://www.instagram.com/bigetheprof?igsh=dDB3MndpMTFjdDgz",
-      "provider": "instagram"
+      "url": "https://stephansama.info/",
+      "provider": "homepage"
+    },
+    {
+      "url": "https://github.com/stephansama/stephansama",
+      "provider": "github"
     }
   ]
 }
