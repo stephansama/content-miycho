@@ -15,6 +15,10 @@
     {
       "url": "https://github.com/stephansama/stephansama",
       "provider": "github"
+    },
+    {
+      "url": "https://www.linkedin.com/in/stephan-randle-38a30319a/",
+      "provider": "linkedin"
     }
   ]
 }
