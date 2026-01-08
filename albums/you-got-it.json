@@ -4,6 +4,10 @@
     {
       "url": "https://youtube.com/playlist?list=OLAK5uy_kIfM1eB0_zRZJMrsxxAStr9WQDfj5PLeY&si=2d9mkqIFcg4qN_Sh",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/you-got-it/1864466136?i=1864466137",
+      "provider": "apple music"
     }
   ],
   "description": ""
