@@ -8,6 +8,10 @@
     {
       "url": "https://music.apple.com/us/album/you-got-it/1864466136?i=1864466137",
       "provider": "apple music"
+    },
+    {
+      "url": "https://open.spotify.com/album/2kcBXRhEdyHZ6ZmRPd8HYT?si=Lr-NyzNGQBuBkE1qAKogTg",
+      "provider": "spotify"
     }
   ],
   "description": ""
