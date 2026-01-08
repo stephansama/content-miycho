@@ -1,4 +1,10 @@
 {
   "title": "You Got It",
+  "link": [
+    {
+      "url": "https://youtube.com/playlist?list=OLAK5uy_kIfM1eB0_zRZJMrsxxAStr9WQDfj5PLeY&si=2d9mkqIFcg4qN_Sh",
+      "provider": "youtube"
+    }
+  ],
   "description": ""
 }
