@@ -5,6 +5,10 @@
     {
       "url": "https://youtu.be/e9llGdbTUBM?si=TrXTAsi8mAhQYrwZ",
       "provider": "youtube"
+    },
+    {
+      "url": "https://music.apple.com/us/album/nobody-else-feat-n8-lou-jay-arson-the-hype-god/1872292275?i=1872292276",
+      "provider": "apple music"
     }
   ],
   "imageUrl": "https://img.youtube.com/vi/e9llGdbTUBM/maxresdefault.jpg",
